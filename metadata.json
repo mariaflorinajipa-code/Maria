@@ -1,0 +1,6 @@
+{
+  "name": "NexaIA Studio",
+  "description": "Plataforma SaaS de creación de contenido con IA para pequeños negocios en Instagram y TikTok: ideas, guiones para Reels, textos persuasivos y calendario mensual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
